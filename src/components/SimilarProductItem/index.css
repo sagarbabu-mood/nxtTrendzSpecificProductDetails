@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.similar-item-container {
+  list-style: none;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.similar-image {
+  width: 250px;
+  border-radius: 10px;
+}
+
+.similar-title {
+  font-size: 20px;
+}
+.similar-review-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-container {
+  margin-bottom: 10px;
+}
